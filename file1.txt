@@ -1,0 +1,14 @@
+total 44
+drwxr-xr-x 2 marko marko 4096 Nov  6 16:35 .
+drwxr-xr-x 7 marko marko 4096 Nov  6 12:25 ..
+-rwxr-xr-x 1 marko marko   99 Nov  6 12:42 catOutput.sh
+-rwxrwxr-x 1 marko marko  417 Nov  6 12:54 conditionals.sh
+-rw-r--r-- 1 marko marko    0 Nov  6 16:35 file1.txt
+-rw-r--r-- 1 marko marko    0 Nov  6 16:35 file2.txt
+-rw-r--r-- 1 marko marko   19 Nov  6 12:33 fileSample.txt
+-rw-r--r-- 1 marko marko   46 Nov  6 12:43 file.txt
+-rwxr-xr-x 1 marko marko  108 Nov  6 12:41 helloScipt.sh
+-rwxrwxr-x 1 marko marko  333 Nov  6 13:21 loops.sh
+-rwxr-xr-x 1 marko marko   73 Nov  6 16:26 readInput.sh
+-rwxr-xr-x 1 marko marko  243 Nov  6 16:31 scriptInput.sh
+-rwxr-xr-x 1 marko marko   81 Nov  6 16:35 scriptOutput.sh
